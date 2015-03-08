@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sermonar WordPress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-16 09:32-0800\n"
+"PO-Revision-Date: 2013-04-16 09:32-0800\n"
+"Last-Translator: Ian <9bitStudios@gmail.com>\n"
+"Language-Team: 9bit Studios\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tdd.php:69
+msgid "Digital Downloads"
+msgstr ""
+
+#: ../tdd.php:79
+msgid "PayPal IPN"
+msgstr ""
+
+#: ../tdd.php:91
+msgid "Download"
+msgstr ""
+
+#: ../tdd.php:103
+msgid "Thank You"
+msgstr ""
+
+#: ../tdd.php:104
+msgid ""
+"Thank you for your purchase. Your download code is available in your e-mail."
+msgstr ""
+
+#: ../tdd.php:115
+msgid "Error"
+msgstr ""
+
+#: ../tdd.php:116
+msgid ""
+"There was an error in the process and the request could not be completed. If "
+"you think this is an error please contact support to resolve the situation."
+msgstr ""
+
+#: ../tdd.php:198 ../includes/tdd-products.php:6
+msgid "Products"
+msgstr ""
+
+#: ../tdd.php:199 ../includes/tdd-add-product.php:22
+#: ../includes/tdd-home.php:14 ../includes/tdd-products.php:38
+msgid "Add New Product"
+msgstr ""
+
+#: ../tdd.php:200 ../includes/tdd-edit-product-all-fields.php:54
+#: ../includes/tdd-products.php:14 ../includes/tdd-products.php:30
+#: ../includes/tdd-sales.php:6
+msgid "Sales"
+msgstr ""
+
+#: ../tdd.php:202 ../tdd.php:203 ../includes/tdd-edit-product.php:36
+msgid "Edit Product"
+msgstr ""
+
+#: ../tdd.php:204
+msgid "Delete Product"
+msgstr ""
+
+#: ../tdd.php:206
+msgid "Add Sale"
+msgstr ""
+
+#: ../tdd.php:207 ../includes/tdd-edit-sale.php:40
+msgid "Edit Sale"
+msgstr ""
+
+#: ../tdd.php:208
+msgid "Delete Sale"
+msgstr ""
+
+#: ../includes/plugin-functions.php:51
+msgid "There was an error in the process"
+msgstr ""
+
+#: ../includes/plugin-functions.php:52
+msgid "Success"
+msgstr ""
+
+#: ../includes/plugin-functions.php:53
+msgid "Product added successfully"
+msgstr ""
+
+#: ../includes/plugin-functions.php:54
+msgid "Product updated successfully"
+msgstr ""
+
+#: ../includes/plugin-functions.php:55
+msgid "Product deleted successfully"
+msgstr ""
+
+#: ../includes/plugin-functions.php:56
+msgid "Sale updated successfully"
+msgstr ""
+
+#: ../includes/plugin-functions.php:57
+msgid "Sale deleted successfully"
+msgstr ""
+
+#: ../includes/plugin-functions.php:58
+msgid "Settings saved"
+msgstr ""
+
+#: ../includes/plugin-functions.php:59
+msgid "Settings reset"
+msgstr ""
+
+#: ../includes/plugin-functions.php:140
+msgid "Test Download"
+msgstr ""
+
+#: ../includes/plugin-functions.php:143 ../includes/plugin-functions.php:180
+msgid "Edit"
+msgstr ""
+
+#: ../includes/plugin-functions.php:144 ../includes/plugin-functions.php:180
+msgid "Delete"
+msgstr ""
+
+#: ../includes/plugin-functions.php:223
+msgid "Thank you for your purchase"
+msgstr ""
+
+#: ../includes/plugin-functions.php:224
+msgid ""
+"Thank you for your purchase. Please use the following link below to download "
+"your file. If you have any problems with the download please contact support."
+msgstr ""
+
+#: ../includes/plugin-functions.php:225
+msgid "Purchase Code"
+msgstr ""
+
+#: ../includes/plugin-functions.php:226
+msgid "Download File"
+msgstr ""
+
+#: ../includes/plugin-functions.php:237
+msgid "An error occured while sending email"
+msgstr ""
+
+#: ../includes/plugin-functions.php:295
+msgid ""
+"An error has occured in the process and the request could not be completed. "
+"Please contact support"
+msgstr ""
+
+#: ../includes/plugin-functions.php:375
+msgid ""
+"Failed to update sales data in products table. Please investigate and update "
+"manually"
+msgstr ""
+
+#: ../includes/plugin-functions.php:402
+msgid ""
+"Failed add sale record to database. Check online product for sales info."
+msgstr ""
+
+#: ../includes/plugin-functions.php:439
+msgid "Thank you"
+msgstr ""
+
+#: ../includes/plugin-functions.php:451
+msgid "Unknown Error"
+msgstr ""
+
+#: ../includes/plugin-functions.php:492
+msgid "Submit"
+msgstr ""
+
+#: ../includes/plugin-functions.php:493
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/plugin-functions.php:507
+msgid "Yes"
+msgstr ""
+
+#: ../includes/plugin-functions.php:508
+msgid "No"
+msgstr ""
+
+#: ../includes/tdd-add-product.php:26
+#: ../includes/tdd-edit-product-all-fields.php:48
+#: ../includes/tdd-edit-product.php:42 ../includes/tdd-products.php:12
+#: ../includes/tdd-products.php:28
+msgid "Product Name"
+msgstr ""
+
+#: ../includes/tdd-add-product.php:29
+#: ../includes/tdd-edit-product-all-fields.php:51
+#: ../includes/tdd-edit-product.php:45 ../includes/tdd-products.php:13
+#: ../includes/tdd-products.php:29
+msgid "File"
+msgstr ""
+
+#: ../includes/tdd-add-sale.php:32
+msgid "Add Sale (Only Use For Testing and Error Cases)"
+msgstr ""
+
+#: ../includes/tdd-add-sale.php:36 ../includes/tdd-edit-sale.php:46
+#: ../includes/tdd-sales.php:12 ../includes/tdd-sales.php:30
+msgid "Product ID"
+msgstr ""
+
+#: ../includes/tdd-add-sale.php:39 ../includes/tdd-edit-sale.php:49
+#: ../includes/tdd-sales.php:13 ../includes/tdd-sales.php:31
+msgid "Item Name"
+msgstr ""
+
+#: ../includes/tdd-add-sale.php:42 ../includes/tdd-edit-sale.php:52
+#: ../includes/tdd-sales.php:14 ../includes/tdd-sales.php:32
+msgid "Price"
+msgstr ""
+
+#: ../includes/tdd-delete-product.php:24
+msgid "Are you sure you want to delete the product"
+msgstr ""
+
+#: ../includes/tdd-delete-sale.php:24
+msgid "Are you sure you want to delete sale"
+msgstr ""
+
+#: ../includes/tdd-edit-product-all-fields.php:39
+msgid "Edit Product All Fields (Only Use For Testing and Error Cases)"
+msgstr ""
+
+#: ../includes/tdd-edit-product-all-fields.php:45
+#: ../includes/tdd-products.php:11 ../includes/tdd-products.php:27
+msgid "ID"
+msgstr ""
+
+#: ../includes/tdd-edit-product-all-fields.php:57
+#: ../includes/tdd-products.php:15 ../includes/tdd-products.php:31
+msgid "Earnings"
+msgstr ""
+
+#: ../includes/tdd-edit-sale.php:55 ../includes/tdd-sales.php:16
+#: ../includes/tdd-sales.php:34
+msgid "Payment Code"
+msgstr ""
+
+#: ../includes/tdd-edit-sale.php:58
+msgid "Active"
+msgstr ""
+
+#: ../includes/tdd-home.php:8
+msgid "Total Earnings"
+msgstr ""
+
+#: ../includes/tdd-home.php:12
+msgid "View Products"
+msgstr ""
+
+#: ../includes/tdd-home.php:13
+msgid "View Sales"
+msgstr ""
+
+#: ../includes/tdd-sales.php:11 ../includes/tdd-sales.php:29
+#: ../templates/template-page-tdd-download.php:36
+msgid "Sale ID"
+msgstr ""
+
+#: ../includes/tdd-sales.php:15 ../includes/tdd-sales.php:33
+msgid "Date"
+msgstr ""
+
+#: ../includes/tdd-sales.php:17 ../includes/tdd-sales.php:35
+msgid "Active?"
+msgstr ""
+
+#: ../includes/tdd-settings.php:5
+msgid "General"
+msgstr ""
+
+#: ../includes/tdd-settings.php:8
+msgid "Sender Email"
+msgstr ""
+
+#: ../includes/tdd-settings.php:9
+msgid ""
+"Enter the email that you want to set as the sending From: email when sending "
+"download links to your customers."
+msgstr ""
+
+#: ../includes/tdd-settings.php:68
+msgid "Settings"
+msgstr ""
+
+#: ../includes/tdd-settings.php:144
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/tdd-settings.php:152
+msgid "Reset"
+msgstr ""
+
+#: ../templates/template-page-tdd-download.php:12
+msgid "Accessed download URL when download code parameter was not set"
+msgstr ""
+
+#: ../templates/template-page-tdd-download.php:36
+msgid "Requester"
+msgstr ""
+
+#: ../templates/template-page-tdd-download.php:42
+msgid ""
+"Accessed download URL when using invalid or inactive payment code parameter"
+msgstr ""
+
+#: ../templates/template-page-tdd-paypal-ipn.php:67
+msgid "A curl error occured when processing IPN data"
+msgstr ""
+
+#: ../templates/template-page-tdd-paypal-ipn.php:116
+msgid ""
+"IPN was received but product ID was invalid or non-existent in application. "
+"Contact buyer to resolve."
+msgstr ""
+
+#: ../templates/template-page-tdd-paypal-ipn.php:123
+msgid "IPN was flagged as invalid by PayPal"
+msgstr ""

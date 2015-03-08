@@ -1,0 +1,177 @@
+/**************************************************
+PLUGIN WRAP
+***************************************************/
+
+.nbs-plugin-wrap {
+width:98%;
+}
+
+/**************************************************
+PLUGIN - TABS
+***************************************************/
+.nbs-plugin-tabs {
+}
+
+.nbs-plugin-tabs li {
+float:left; padding-right:20px;
+}
+
+.nbs-plugin-tabs li a {
+text-decoration:none;
+}
+
+/**************************************************
+PLUGIN - HEADERS
+***************************************************/
+
+.nbs-plugin-wrap h4 {
+font-size:14px;
+color:#888;
+}
+
+.nbs-plugin-wrap h4.nbs-plugin-section {
+font-family:Georgia,'Times New Roman',Times,serif;
+font-size:22px;
+padding:10px 0px;
+font-style:italic;
+font-weight:normal;
+border-bottom:5px solid #ccc;
+color:#000;
+}
+
+.nbs-plugin-wrap h4.nbs-plugin-sub-section {
+font-size:18px;	
+}
+
+/**************************************************
+PLUGIN - MESSAGE
+***************************************************/
+
+.nbs-plugin-wrap .nbs-success-message {
+margin:10px 5px 0px 0px;
+padding:7px;
+background-color:lightYellow;
+border:1px solid #E6DB55;
+}
+
+.nbs-plugin-wrap .nbs-error-message {
+margin:10px 5px 0px 0px;
+padding:7px;	
+background-color:#ffebe8;
+border:1px solid #c00;
+}
+
+/**************************************************
+PLUGIN - TEXT & INPUTS
+***************************************************/
+
+.nbs-plugin-wrap input[type="text"], 
+.nbs-plugin-wrap textarea,
+.nbs-plugin-wrap .text-small,
+.nbs-plugin-wrap .text-medium,
+.nbs-plugin-wrap .text-large,
+.nbs-plugin-wrap .textarea-small,
+.nbs-plugin-wrap .textarea-medium,
+.nbs-plugin-wrap .textarea-large {
+padding: 6px 4px;
+outline: none;
+border: 1px solid #ccc;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+border-radius: 2px;
+color: #555;
+font-size: 12px;
+font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+background: -webkit-gradient(linear, 0 0, 0 100%, from(#fafafa), to(#ffffff));
+background: -webkit-linear-gradient(top, #fafafa, #ffffff);
+background: -moz-linear-gradient(top, #fafafa, #ffffff);
+background: -o-linear-gradient(top, #fafafa, #ffffff);
+background: -ms-linear-gradient(top, #fafafa, #ffffff);	
+}
+
+
+.nbs-plugin-wrap input[type="text"]:focus, 
+.nbs-plugin-wrap textarea:focus,
+.nbs-plugin-wrap .text-small:focus,
+.nbs-plugin-wrap .text-medium:focus,
+.nbs-plugin-wrap .text-large:focus,
+.nbs-plugin-wrap .textarea-small:focus,
+.nbs-plugin-wrap .textarea-medium:focus,
+.nbs-plugin-wrap .textarea-large:focus {
+border: 1px solid #aaa;
+color: #333;
+-moz-box-shadow: 0 0 3px rgba(0,0,0,.2);
+-webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
+box-shadow:0 0 3px rgba(0,0,0,.2);
+}
+
+.nbs-plugin-wrap select {
+width:200px;
+}
+
+.nbs-plugin-wrap .text-small {
+width:50px;
+}
+
+.nbs-plugin-wrap .text-medium {
+width:300px;
+}
+
+.nbs-plugin-wrap .text-large {
+width:98%;
+}
+
+.nbs-plugin-wrap .textarea-medium {
+width:400px;
+height:200px;
+}
+
+.nbs-plugin-wrap .textarea-large {
+width:98%;
+height:200px;
+}
+
+.nbs-plugin-wrap .textarea-code {
+ font-family: 'DejaVu Sans Mono', Monaco, Consolas, monospace;
+}
+
+.nbs-plugin-wrap .nbs-pluginFormButtonWrap {
+float:left;
+}
+
+/**************************************************
+PLUGIN - VALIDATION
+***************************************************/
+
+.nbs-plugin-wrap label.error {
+color:#900;
+margin-left: 5px;
+font-size:10px;
+font-weight:bold;
+}
+
+/**************************************************
+PLUGIN - MISC
+***************************************************/
+
+.nbs-plugin-wrap .clear {
+clear:both;	
+height:0px;
+overlow:hidden;
+}
+
+.nbs-plugin-wrap .clearout {
+clear:both;	
+height:20px;
+overlow:hidden;
+}
+
+
+.nbs-plugin-wrap .left {
+float:right;
+}
+
+
+.nbs-plugin-wrap .right {
+float:right;
+}
