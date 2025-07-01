@@ -157,13 +157,13 @@ PLUGIN - MISC
 .nbs-plugin-wrap .clear {
 clear:both;	
 height:0px;
-overlow:hidden;
+overflow:hidden;
 }
 
 .nbs-plugin-wrap .clearout {
 clear:both;	
 height:20px;
-overlow:hidden;
+overflow:hidden;
 }
 
 
